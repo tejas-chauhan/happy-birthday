@@ -34,7 +34,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This is the project made for one of our friend Prachi Kadam to wish her birthday on Behalf of the whole group. Once Again Happy Birthday Prachi !!
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -45,7 +45,9 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+Node.js
+Visual Studio Code
+Browser-Vue Supported
 ```
 
 ### Installing
