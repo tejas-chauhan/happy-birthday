@@ -81,23 +81,26 @@ You could deploy this system through many ways like,
  
  - Guthub Pages
  - Gitlab Pages
-- versal  
+ - versal/now 
+ - Heroku CLI
+ - Travis CLI
+ - AWS S3
+ - Netify
+
+I have tried all of this and each of them works!!   
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
 - [VueJs](https://vuejs.org/) - Web Framework
+- [Express](https://expressjs.com/) - Server Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@Dhruv ](https://github.com/DhruvDoshi) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/DhruvDoshi/happy-birthday/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+Sarthak patel, Thanks bro for the Idea and text!!
