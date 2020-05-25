@@ -52,49 +52,36 @@ Browser-Vue Supported
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
+let's see how you could develop this project on your system!!
 ```
-Give the example
+git clone https://github.com/DhruvDoshi/happy-birthday
+cd happy-birthday
+cd code_files/birthday-prachi
+npm install
 ```
-
-And repeat
-
+After this change the images and text if you want to 
 ```
-until finished
+npm run-script serve --fix
+npm run-script serve
 ```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
+This will run the system on localhost 8000
+You could use GUI of VUE.js for further work !!
 ```
-Give an example
+vue ui
 ```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+This will make whole process pretty easy!
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+Wish your friends with a personal website 😊
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-Add additional notes about how to deploy this on a live system.
+You could deploy this system through many ways like,
+ 
+ - Guthub Pages
+ - Gitlab Pages
+- versal  
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
