@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/DhruvDoshi/happy-birthday/blob/master/img/birthday_readme.gif" alt="Project logo"></a>
+ <img width=250px height=200px src="https://github.com/DhruvDoshi/happy-birthday/blob/master/img/birthday_readme.gif" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Happy Birthday !!</h3>
 
 <div align="center">
 
