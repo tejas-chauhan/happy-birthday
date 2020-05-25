@@ -9,7 +9,8 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/DhruvDoshi/happy-birthday.svg)](https://github.com/DhruvDoshi/happy-birthday/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/DhruvDoshi/happy-birthday.svg)](https://github.com/DhruvDoshi/happy-birthday/pulls)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://git.io/prachi)
+![GitHub last commit](https://img.shields.io/github/last-commit/DhruvDoshi/happy-birthday.svg?style=popout-square)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
