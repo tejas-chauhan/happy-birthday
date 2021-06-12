@@ -11,6 +11,7 @@ module.exports = {
     'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'vue/max-attributes-per-line': 'off',
+    'eslint linebreak-style': ["error", "windows"],
   },
   parserOptions: {
     parser: 'babel-eslint',
